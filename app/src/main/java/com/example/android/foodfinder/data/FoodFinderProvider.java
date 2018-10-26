@@ -8,9 +8,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.net.Uri;
 import android.support.annotation.Nullable;
 
-/**
- * Created by ak00481127 on 5/11/2017.
- */
+
 
 public class FoodFinderProvider extends ContentProvider {
 

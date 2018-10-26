@@ -21,9 +21,7 @@ import java.util.List;
 import retrofit2.Call;
 import retrofit2.Response;
 
-/**
- * Created by ameya on 5/13/2017.
- */
+
 public final class PlacesPullJob {
 
     private static final int RADIUS = 2000;

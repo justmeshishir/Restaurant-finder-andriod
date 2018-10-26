@@ -4,9 +4,6 @@ import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-/**
- * Created by ak00481127 on 5/11/2017.
- */
 
 public class FoodFinderDbHelper extends SQLiteOpenHelper {
 

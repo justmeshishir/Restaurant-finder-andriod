@@ -7,9 +7,7 @@ import android.test.AndroidTestCase;
 import java.util.HashSet;
 import java.util.Iterator;
 
-/**
- * Created by ameya on 5/13/2017.
- */
+
 public class TestDb extends AndroidTestCase {
 
     public static final String LOG_TAG = TestDb.class.getSimpleName();

@@ -3,9 +3,7 @@ package com.example.android.foodfinder.rest;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-/**
- * Created by ak00481127 on 5/10/2017.
- */
+
 
 public class ApiClient {
 

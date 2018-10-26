@@ -11,9 +11,7 @@ import android.widget.RemoteViews;
 import com.example.android.foodfinder.R;
 import com.example.android.foodfinder.sync.PlacesPullJob;
 
-/**
- * Created by ameya on 5/22/2017.
- */
+
 public class FoodFinderWidgetProvider extends AppWidgetProvider {
 
     @Override

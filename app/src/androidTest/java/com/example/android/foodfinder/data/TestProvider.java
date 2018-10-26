@@ -5,9 +5,6 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.test.AndroidTestCase;
 
-/**
- * Created by ameya on 5/13/2017.
- */
 public class TestProvider extends AndroidTestCase {
 
     public void testRestaurantInsert() {

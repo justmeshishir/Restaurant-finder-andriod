@@ -2,9 +2,6 @@ package com.example.android.foodfinder.model;
 
 import java.util.List;
 
-/**
- * Created by ak00481127 on 5/9/2017.
- */
 
 public class Restaurant {
 

@@ -12,9 +12,7 @@ import android.widget.RemoteViewsService;
 import com.example.android.foodfinder.R;
 import com.example.android.foodfinder.data.FoodFinderContract;
 
-/**
- * Created by ameya on 5/22/2017.
- */
+
 public class RestaurantListRemoteViewFactory implements RemoteViewsService.RemoteViewsFactory {
 
     private Cursor data = null;

@@ -1,8 +1,5 @@
 package com.example.android.foodfinder.model;
 
-/**
- * Created by ak00481127 on 5/9/2017.
- */
 
 public class PlaceDetailsResponse {
 

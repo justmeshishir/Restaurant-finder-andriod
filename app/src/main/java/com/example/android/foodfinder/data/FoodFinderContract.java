@@ -5,9 +5,7 @@ import android.content.ContentUris;
 import android.net.Uri;
 import android.provider.BaseColumns;
 
-/**
- * Created by ak00481127 on 5/10/2017.
- */
+
 
 public class FoodFinderContract {
 

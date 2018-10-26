@@ -2,9 +2,7 @@ package com.example.android.foodfinder.model;
 
 import java.util.List;
 
-/**
- * Created by ameya on 5/20/2017.
- */
+
 public class RestaurantTimings {
 
     boolean open_now;

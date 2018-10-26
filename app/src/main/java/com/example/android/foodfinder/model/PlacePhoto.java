@@ -1,9 +1,5 @@
 package com.example.android.foodfinder.model;
 
-/**
- * Created by ak00481127 on 5/10/2017.
- */
-
 public class PlacePhoto {
 
     int height;

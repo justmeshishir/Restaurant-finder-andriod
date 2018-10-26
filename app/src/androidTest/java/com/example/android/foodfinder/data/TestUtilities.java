@@ -7,9 +7,7 @@ import android.test.AndroidTestCase;
 import java.util.Map;
 import java.util.Set;
 
-/**
- * Created by ameya on 5/13/2017.
- */
+
 public class TestUtilities extends AndroidTestCase {
 
     static void validateCursor(String error, Cursor valueCursor, ContentValues expectedValues) {
